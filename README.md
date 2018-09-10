@@ -1,4 +1,4 @@
-![Logo](https://github.com/PandyaDeval/braille_printer/image.jpg)
+![Logo](image.jpg)
 
 #
 # BRAILLE PRINTER
